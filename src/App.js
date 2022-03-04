@@ -28,7 +28,6 @@ class App extends Component {
   }
 
   unmount = (id) => {
-    const { notes } = this.state;
     this.setState((prevState) => ({
       notes: this.removeNote(prevState.notes, id)
     }))

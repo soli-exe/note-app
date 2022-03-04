@@ -1,0 +1,14 @@
+:root{
+    --font-color-dark: #161b22;
+    --border-default-color: #30363d;
+    --bg-dark-color: #161b22;
+    --color-accent-emphasis: #1f6feb;
+    --color-bg-dark-header: #242930;
+    --color-secondary-gray: #252525;
+    --color-dark-shadow: rgba(22, 27, 34, 0.5);
+    --color-bittersweet: #FF6363;
+    --color-sandybrown: #f5c36a;
+    --color-royalblue: #516BEB;
+    --color-darkgrey: #a58dac;
+    --color-yellowgreen: #95cc41;
+}
